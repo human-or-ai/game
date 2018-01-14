@@ -1,8 +1,7 @@
 {
   "name": "@varbrad/hoai-game",
   "version": "0.0.1",
-  "description":
-    "A simple computer game that is capable of recording state response data and exposes sensor information for ML applications",
+  "description": "A simple computer game that is capable of recording state response data and exposes sensor information for ML applications",
   "main": "index.js",
   "repository": {
     "type": "git",
